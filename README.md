@@ -15,11 +15,11 @@
 - **Supervised Learning**
 - **Unsupervised Learning**
 
-# Machine Learning Algorithms
+# Machine Learning Algorithms:
 
-## Algorithms Overview
+## Algorithms Overview:
 
-### Supervised Learning
+### Supervised Learning:
 
 1. **Linear Regression**:
    - Predicts a continuous dependent variable based on the linear relationship between independent variables.
@@ -49,7 +49,7 @@
 <img src="https://dataaspirant.com/wp-content/uploads/2020/12/3-Support-Vector-Machine-Algorithm.png" alt="SVM" style="width:30%;height:auto">
 </p>
 
-### Unsupervised Learning
+### Unsupervised Learning:
 
 1. **K-Means Clustering**:
    - Divides data into `k` clusters based on similarity, where each data point belongs to the nearest cluster mean.
