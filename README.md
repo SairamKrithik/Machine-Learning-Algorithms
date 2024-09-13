@@ -11,7 +11,7 @@ This repository contains basic implementations of Machine Learning techniques an
 ### Process of Machine Learning:
 <img src="https://th.bing.com/th/id/R.18b2c5d236f6eb542fa26cdfb1159442?rik=0Uj%2f99spn10r5Q&riu=http%3a%2f%2fwww.favouriteblog.com%2fwp-content%2fuploads%2f2017%2f07%2fMachine-Learning-Process.png&ehk=L%2fme4zOnlKLGikRPxgi9QgJeREVnZutGfoMAwQ12iak%3d&risl=&pid=ImgRaw&r=0" alt="ML Process">
 
-#### The algorithms are organized into two main categories:
+### The algorithms are organized into two main categories:
 - **Supervised Learning**
 - **Unsupervised Learning**
 
