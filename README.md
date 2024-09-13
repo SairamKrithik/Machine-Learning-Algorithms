@@ -24,12 +24,12 @@
 1. **Linear Regression**:
    - Predicts a continuous dependent variable based on the linear relationship between independent variables.
    - **Example Use Case**: Predicting house prices, sales forecasting.
-<img src="https://www.researchgate.net/profile/Hieu-Tran-17/publication/340271573/figure/fig3/AS:874657431437319@1585545990533/Linear-Regression-model-sample-illustration.ppm" alt="Linear_Regression" width="500" height="600">
+<img src="https://www.researchgate.net/profile/Hieu-Tran-17/publication/340271573/figure/fig3/AS:874657431437319@1585545990533/Linear-Regression-model-sample-illustration.ppm" alt="Linear_Regression" width="" height="600">
 
 2. **Logistic Regression**:
    - Used for binary classification problems. It predicts the probability that a given input belongs to a certain class.
    - **Example Use Case**: Spam detection, medical diagnosis.
-<img src="https://miro.medium.com/max/1400/1*44qV8LhNzE5hPnta2PaaHw.png" alt="Logistic_Regression" width="500" height="600">
+<img src="https://miro.medium.com/max/1400/1*44qV8LhNzE5hPnta2PaaHw.png" alt="Logistic_Regression" width="300" height="100">
 
 3. **Decision Trees**:
    - A tree-like model used to make decisions based on a series of feature values.
