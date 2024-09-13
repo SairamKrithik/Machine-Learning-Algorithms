@@ -24,41 +24,41 @@
 1. **Linear Regression**:
    - Predicts a continuous dependent variable based on the linear relationship between independent variables.
    - **Example Use Case**: Predicting house prices, sales forecasting.
-<img src="https://www.researchgate.net/profile/Hieu-Tran-17/publication/340271573/figure/fig3/AS:874657431437319@1585545990533/Linear-Regression-model-sample-illustration.ppm" alt="Linear_Regression">
+<img src="https://www.researchgate.net/profile/Hieu-Tran-17/publication/340271573/figure/fig3/AS:874657431437319@1585545990533/Linear-Regression-model-sample-illustration.ppm" alt="Linear_Regression" width="500" height="600">
 
 2. **Logistic Regression**:
    - Used for binary classification problems. It predicts the probability that a given input belongs to a certain class.
    - **Example Use Case**: Spam detection, medical diagnosis.
-<img src="https://miro.medium.com/max/1400/1*44qV8LhNzE5hPnta2PaaHw.png" alt="Logistic_Regression">
+<img src="https://miro.medium.com/max/1400/1*44qV8LhNzE5hPnta2PaaHw.png" alt="Logistic_Regression" width="500" height="600">
 
 3. **Decision Trees**:
    - A tree-like model used to make decisions based on a series of feature values.
    - **Example Use Case**: Customer segmentation, loan approval.
-<img src="https://pantelis.github.io/cs634/docs/common/lectures/decision-trees/images/fruit-decision-tree.png#center" alt="Descision_Trees">
+<img src="https://pantelis.github.io/cs634/docs/common/lectures/decision-trees/images/fruit-decision-tree.png#center" alt="Descision_Trees" width="500" height="600">
 
 4. **Support Vector Machines (SVM)**:
    - A powerful classification algorithm that finds the optimal hyperplane to separate data into different classes.
    - **Example Use Case**: Image classification, text categorization.
-<img src="https://dataaspirant.com/wp-content/uploads/2020/12/3-Support-Vector-Machine-Algorithm.png" alt="SVM">
+<img src="https://dataaspirant.com/wp-content/uploads/2020/12/3-Support-Vector-Machine-Algorithm.png" alt="SVM" width="500" height="600">
 
 ### Unsupervised Learning
 
 1. **K-Means Clustering**:
    - Divides data into `k` clusters based on similarity, where each data point belongs to the nearest cluster mean.
    - **Example Use Case**: Market segmentation, document clustering.
-<img src="https://th.bing.com/th/id/OIP.B8eA04Be2Bl9CZZljLLCVQAAAA?rs=1&pid=ImgDetMain" alt="K_Clustering">
+<img src="https://th.bing.com/th/id/OIP.B8eA04Be2Bl9CZZljLLCVQAAAA?rs=1&pid=ImgDetMain" alt="K_Clustering" width="500" height="600">
 
 2. **Hierarchical Clustering**:\
    - Builds a tree-like structure (dendrogram) to represent nested clusters of data.
    - **Example Use Case**: Gene expression analysis, social network analysis.
-<img src="https://dataaspirant.com/wp-content/uploads/2020/12/17-Hierarchical-Divisive-Clustering.png" alt="Heirarchial_Clustering">
+<img src="https://dataaspirant.com/wp-content/uploads/2020/12/17-Hierarchical-Divisive-Clustering.png" alt="Heirarchial_Clustering" width="500" height="600">
 
 3. **DBSCAN (Density-Based Spatial Clustering of Applications with Noise)**:
    - Identifies clusters of varying shapes based on density, separating noise or outliers from the clusters.
    - **Example Use Case**: Anomaly detection, geospatial data analysis.
-<img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2020/03/db6-e1584577503359.png" alt="DB">
+<img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2020/03/db6-e1584577503359.png" alt="DB" width="500" height="600">
 
 4. **Principal Component Analysis (PCA)**:
    - A dimensionality reduction technique that transforms data into a lower-dimensional space while preserving most of the variance in the data.
    - **Example Use Case**: Reducing the dimensionality of high-dimensional datasets, improving computational efficiency in ML models.
-<img src="https://numxl.com/wp-content/uploads/principal-component-analysis-pca-featured-1024x576.png" alt="PCA">
+<img src="https://numxl.com/wp-content/uploads/principal-component-analysis-pca-featured-1024x576.png" alt="PCA" width="500" height="600">
