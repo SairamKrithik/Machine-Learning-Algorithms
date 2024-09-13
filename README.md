@@ -43,26 +43,36 @@
 4. **Support Vector Machines (SVM)**:
    - A powerful classification algorithm that finds the optimal hyperplane to separate data into different classes.
    - **Example Use Case**: Image classification, text categorization.
-<img src="https://dataaspirant.com/wp-content/uploads/2020/12/3-Support-Vector-Machine-Algorithm.png" alt="SVM" width="500" height="600">
+<p align="center">
+<img src="https://dataaspirant.com/wp-content/uploads/2020/12/3-Support-Vector-Machine-Algorithm.png" alt="SVM" style="width:30%;height:auto">
+</p>
 
 ### Unsupervised Learning
 
 1. **K-Means Clustering**:
    - Divides data into `k` clusters based on similarity, where each data point belongs to the nearest cluster mean.
    - **Example Use Case**: Market segmentation, document clustering.
+<p align="center">
 <img src="https://th.bing.com/th/id/OIP.B8eA04Be2Bl9CZZljLLCVQAAAA?rs=1&pid=ImgDetMain" alt="K_Clustering" width="500" height="600">
+</p>
 
 2. **Hierarchical Clustering**:\
    - Builds a tree-like structure (dendrogram) to represent nested clusters of data.
    - **Example Use Case**: Gene expression analysis, social network analysis.
+<p align="center">
 <img src="https://dataaspirant.com/wp-content/uploads/2020/12/17-Hierarchical-Divisive-Clustering.png" alt="Heirarchial_Clustering" width="500" height="600">
+</p>
 
 3. **DBSCAN (Density-Based Spatial Clustering of Applications with Noise)**:
    - Identifies clusters of varying shapes based on density, separating noise or outliers from the clusters.
    - **Example Use Case**: Anomaly detection, geospatial data analysis.
+<p align="center">
 <img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2020/03/db6-e1584577503359.png" alt="DB" width="500" height="600">
+</p>
 
 4. **Principal Component Analysis (PCA)**:
    - A dimensionality reduction technique that transforms data into a lower-dimensional space while preserving most of the variance in the data.
    - **Example Use Case**: Reducing the dimensionality of high-dimensional datasets, improving computational efficiency in ML models.
+<p align="center">
 <img src="https://numxl.com/wp-content/uploads/principal-component-analysis-pca-featured-1024x576.png" alt="PCA" width="500" height="600">
+</p>
