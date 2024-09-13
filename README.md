@@ -36,7 +36,9 @@
 3. **Decision Trees**:
    - A tree-like model used to make decisions based on a series of feature values.
    - **Example Use Case**: Customer segmentation, loan approval.
+<p align="center">
 <img src="https://pantelis.github.io/cs634/docs/common/lectures/decision-trees/images/fruit-decision-tree.png#center" alt="Descision_Trees" style="width:30%;height:auto">
+</p>
 
 4. **Support Vector Machines (SVM)**:
    - A powerful classification algorithm that finds the optimal hyperplane to separate data into different classes.
