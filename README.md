@@ -29,7 +29,7 @@
 2. **Logistic Regression**:
    - Used for binary classification problems. It predicts the probability that a given input belongs to a certain class.
    - **Example Use Case**: Spam detection, medical diagnosis.
-<img src="https://miro.medium.com/max/1400/1*44qV8LhNzE5hPnta2PaaHw.png" alt="Logistic_Regression" style="width:50%;height:auto">
+<img src="https://miro.medium.com/max/1400/1*44qV8LhNzE5hPnta2PaaHw.png" alt="Logistic_Regression" style="width:auto;height:40">
 
 3. **Decision Trees**:
    - A tree-like model used to make decisions based on a series of feature values.
