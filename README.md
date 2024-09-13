@@ -24,7 +24,9 @@
 1. **Linear Regression**:
    - Predicts a continuous dependent variable based on the linear relationship between independent variables.
    - **Example Use Case**: Predicting house prices, sales forecasting.
-<img src="https://www.researchgate.net/profile/Hieu-Tran-17/publication/340271573/figure/fig3/AS:874657431437319@1585545990533/Linear-Regression-model-sample-illustration.ppm" alt="Linear_Regression">
+<p align="center">
+<img src="https://cdn-images-1.medium.com/max/1292/1*Nf2tTTkALYq6RTMQmhjo1A.png" alt="Linear_Regression" style="width:30%;height:auto">
+</p>
 
 2. **Logistic Regression**:
    - Used for binary classification problems. It predicts the probability that a given input belongs to a certain class.
